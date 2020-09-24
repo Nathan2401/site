@@ -11448,16 +11448,18 @@ body {
 
 .content {
   position: relative;
-  min-height: 100vh; }
+min-height:100vh; }
   @media (min-width: 992px) {
+
     .content {
-      margin-left: 230px; } }
+      margin-left: 170px; } }
   @media (min-width: 1200px) {
     .content {
-      margin-left: 240px; } }
+      margin-left: 40px; } }
   .content.content-page .content-header {
     padding-bottom: 15px; }
     @media (min-width: 576px) {
+      
       .content.content-page .content-header {
         padding-bottom: 20px; } }
     .content.content-page .content-header .btn, .content.content-page .content-header .ui-datepicker-buttonpane button, .ui-datepicker-buttonpane .content.content-page .content-header button, .content.content-page .content-header .sp-container button, .sp-container .content.content-page .content-header button {
